@@ -1,0 +1,88 @@
+2025-02-14 08:36:39 INFO: - LOADING SYMBOL ID AND SYMBOL EMBEDDING
+2025-02-14 08:36:39 INFO: - BUILDING CONNECTION MATRIX
+2025-02-14 08:36:39 INFO: - LOADING CANDIDATES ENTITIES
+2025-02-14 08:40:13 INFO: - LOADING SYMBOL ID AND SYMBOL EMBEDDING
+2025-02-14 08:40:13 INFO: - LOADING PRE-TRAINED EMBEDDING
+2025-02-14 08:40:13 INFO: - LOADING KB EMBEDDINGS
+2025-02-14 08:40:13 INFO: - BUILDING CONNECTION MATRIX
+2025-02-14 08:40:14 INFO: - LOADING CANDIDATES ENTITIES
+2025-02-14 08:40:14 INFO: - Pre-trained model loaded
+2025-02-14 08:40:14 INFO: - EVALUATING ON TEST DATA
+2025-02-14 08:40:15 INFO: - task: #Drug1 may increase the ototoxic activities of #Drug2.
+ loss: 0.3713, acc: 0.9250, roc: 0.9675, f1: 0.9231, p: 0.9474, r: 0.9000, int-ap: 0.9784, ap: 0.9788
+2025-02-14 08:40:15 INFO: - task: The absorption of #Drug2 can be decreased when combined with #Drug1.
+ loss: 0.2606, acc: 0.9432, roc: 0.9923, f1: 0.9462, p: 0.8980, r: 1.0000, int-ap: 0.9910, ap: 0.9912
+2025-02-14 08:40:15 INFO: - task: #Drug1 may increase the vasodilatory activities of #Drug2.
+ loss: 0.8699, acc: 0.4844, roc: 0.5254, f1: 0.2667, p: 0.4615, r: 0.1875, int-ap: 0.5565, ap: 0.5644
+2025-02-14 08:40:15 INFO: - task: #Drug1 may decrease effectiveness of #Drug2 as a diagnostic agent.
+ loss: 0.3751, acc: 0.8438, roc: 0.9541, f1: 0.8276, p: 0.9231, r: 0.7500, int-ap: 0.9413, ap: 0.9427
+2025-02-14 08:40:15 INFO: - task: #Drug1 may increase the bronchoconstrictory activities of #Drug2.
+ loss: 0.1446, acc: 0.9600, roc: 1.0000, f1: 0.9615, p: 0.9259, r: 1.0000, int-ap: 1.0000, ap: 1.0000
+2025-02-14 08:40:15 INFO: - task: The risk or severity of heart failure can be increased when #Drug2 is combined with #Drug1.
+ loss: 0.3120, acc: 0.9000, roc: 0.9888, f1: 0.9091, p: 0.8333, r: 1.0000, int-ap: 0.9888, ap: 0.9890
+2025-02-14 08:40:15 INFO: - task: The risk or severity of hypotension can be increased when #Drug1 is combined with #Drug2.
+ loss: 0.8643, acc: 0.4688, roc: 0.3740, f1: 0.2609, p: 0.4286, r: 0.1875, int-ap: 0.4890, ap: 0.4993
+2025-02-14 08:40:15 INFO: - task: #Drug1 may increase the ulcerogenic activities of #Drug2.
+ loss: 0.2547, acc: 0.9286, roc: 1.0000, f1: 0.9333, p: 0.8750, r: 1.0000, int-ap: 1.0000, ap: 1.0000
+2025-02-14 08:40:16 INFO: - task: #Drug1 may increase the myelosuppressive activities of #Drug2.
+ loss: 0.6947, acc: 0.6061, roc: 0.7750, f1: 0.4800, p: 0.7059, r: 0.3636, int-ap: 0.6699, ap: 0.6814
+2025-02-14 08:40:16 INFO: - task: #Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.
+ loss: 0.4363, acc: 0.8548, roc: 0.9490, f1: 0.8696, p: 0.7895, r: 0.9677, int-ap: 0.9467, ap: 0.9480
+2025-02-14 08:40:16 INFO: - task: #Drug1 may increase the hyperglycemic activities of #Drug2.
+ loss: 0.2933, acc: 0.8889, roc: 0.9808, f1: 0.9000, p: 0.8182, r: 1.0000, int-ap: 0.9768, ap: 0.9774
+2025-02-14 08:40:16 INFO: - task: #Drug1 may increase the central nervous system depressant (CNS depressant) and hypertensive activities of #Drug2.
+ loss: 0.4046, acc: 0.7500, roc: 0.8935, f1: 0.7111, p: 0.8421, r: 0.6154, int-ap: 0.9016, ap: 0.9034
+2025-02-14 08:40:16 INFO: - task: The risk of a hypersensitivity reaction to #Drug2 is increased when it is combined with #Drug1.
+ loss: 0.7016, acc: 0.6346, roc: 0.7249, f1: 0.5366, p: 0.7333, r: 0.4231, int-ap: 0.6611, ap: 0.6753
+2025-02-14 08:40:16 INFO: - alltask:
+ loss: 0.7016, acc: 0.7835, roc: 0.8633, f1: 0.7699, p: 0.8218, r: 0.7241, int-ap: 0.8776, ap: 0.8778
+2025-02-14 08:40:28 INFO: - LOADING SYMBOL ID AND SYMBOL EMBEDDING
+2025-02-14 08:40:28 INFO: - LOADING PRE-TRAINED EMBEDDING
+2025-02-14 08:40:28 INFO: - LOADING KB EMBEDDINGS
+2025-02-14 08:40:29 INFO: - BUILDING CONNECTION MATRIX
+2025-02-14 08:40:29 INFO: - LOADING CANDIDATES ENTITIES
+2025-02-14 08:40:29 INFO: - Pre-trained model loaded
+2025-02-14 08:40:29 INFO: - EVALUATING ON TEST DATA
+2025-02-14 08:41:30 INFO: - LOADING SYMBOL ID AND SYMBOL EMBEDDING
+2025-02-14 08:41:30 INFO: - LOADING PRE-TRAINED EMBEDDING
+2025-02-14 08:41:30 INFO: - LOADING KB EMBEDDINGS
+2025-02-14 08:41:31 INFO: - BUILDING CONNECTION MATRIX
+2025-02-14 08:41:31 INFO: - LOADING CANDIDATES ENTITIES
+2025-02-14 08:41:31 INFO: - Pre-trained model loaded
+2025-02-14 08:41:31 INFO: - EVALUATING ON TEST2 DATA
+2025-02-14 08:41:32 INFO: - task: The risk or severity of hyponatremia increase
+ loss: 0.3439, acc: 0.9167, roc: 0.9453, f1: 0.9172, p: 0.9114, r: 0.9231, int-ap: 0.9375, ap: 0.9380
+2025-02-14 08:41:32 INFO: - task: an increase in the absorption resulting in an increased serum concentration and potentially a worsening of adverse effects cause
+ loss: 0.9984, acc: 0.4178, roc: 0.4417, f1: 0.3200, p: 0.3846, r: 0.2740, int-ap: 0.5113, ap: 0.5213
+2025-02-14 08:41:32 INFO: - task: The risk or severity of renal failure increase
+ loss: 0.6821, acc: 0.7025, roc: 0.6050, f1: 0.7186, p: 0.6818, r: 0.7595, int-ap: 0.5268, ap: 0.5362
+2025-02-14 08:41:32 INFO: - task: The risk or severity of renal failure and hypertension increase
+ loss: 0.5403, acc: 0.6588, roc: 0.7859, f1: 0.5857, p: 0.7455, r: 0.4824, int-ap: 0.8125, ap: 0.8135
+2025-02-14 08:41:32 INFO: - task: the thrombogenic activities increase
+ loss: 0.7205, acc: 0.6648, roc: 0.5484, f1: 0.6115, p: 0.7273, r: 0.5275, int-ap: 0.5365, ap: 0.5420
+2025-02-14 08:41:33 INFO: - task: The risk or severity of neutropenia increase
+ loss: 0.6948, acc: 0.4198, roc: 0.3972, f1: 0.4891, p: 0.4369, r: 0.5556, int-ap: 0.4087, ap: 0.4164
+2025-02-14 08:41:33 INFO: - task: The risk or severity of renal failure hypotension and hyperkalemia increase
+ loss: 0.4483, acc: 0.7879, roc: 0.9178, f1: 0.8158, p: 0.7209, r: 0.9394, int-ap: 0.9011, ap: 0.9025
+2025-02-14 08:41:33 INFO: - task: The risk or severity of angioedema increase
+ loss: 0.5407, acc: 0.7281, roc: 0.8630, f1: 0.6593, p: 0.8824, r: 0.5263, int-ap: 0.7868, ap: 0.7937
+2025-02-14 08:41:33 INFO: - task: the neuromuscular blocking activities decrease
+ loss: 0.3829, acc: 0.8300, roc: 0.9648, f1: 0.8547, p: 0.7463, r: 1.0000, int-ap: 0.9605, ap: 0.9610
+2025-02-14 08:41:33 INFO: - task: the hypokalemic activities increase
+ loss: 0.3767, acc: 0.8636, roc: 0.9726, f1: 0.8800, p: 0.7857, r: 1.0000, int-ap: 0.9733, ap: 0.9735
+2025-02-14 08:41:33 INFO: - task: The risk or severity of fluid retention increase
+ loss: 0.4820, acc: 0.8228, roc: 0.8915, f1: 0.8313, p: 0.7931, r: 0.8734, int-ap: 0.8911, ap: 0.8919
+2025-02-14 08:41:33 INFO: - task: The risk or severity of myopathy and weakness increase
+ loss: 0.3508, acc: 0.9244, roc: 0.9696, f1: 0.9297, p: 0.8687, r: 1.0000, int-ap: 0.9506, ap: 0.9513
+2025-02-14 08:41:33 INFO: - task: The risk or severity of electrolyte imbalance increase
+ loss: 0.4059, acc: 0.8969, roc: 0.9260, f1: 0.9057, p: 0.8348, r: 0.9897, int-ap: 0.9172, ap: 0.9177
+2025-02-14 08:41:33 INFO: - task: the stimulatory activities decrease
+ loss: 0.3996, acc: 0.8210, roc: 0.9691, f1: 0.8482, p: 0.7364, r: 1.0000, int-ap: 0.9238, ap: 0.9300
+2025-02-14 08:41:33 INFO: - task: The risk or severity of sedation and somnolence increase
+ loss: 0.6147, acc: 0.6437, roc: 0.6597, f1: 0.6076, p: 0.6761, r: 0.5517, int-ap: 0.7600, ap: 0.7611
+2025-02-14 08:41:33 INFO: - task: The risk or severity of hypertension decrease
+ loss: 0.4475, acc: 0.8095, roc: 0.8822, f1: 0.8298, p: 0.7500, r: 0.9286, int-ap: 0.8942, ap: 0.8948
+2025-02-14 08:41:34 INFO: - task: The risk or severity of QTc prolongation decrease
+ loss: 0.5491, acc: 0.7432, roc: 0.8594, f1: 0.7957, p: 0.6607, r: 1.0000, int-ap: 0.8202, ap: 0.8224
+2025-02-14 08:41:34 INFO: - task: The risk or severity of neutropenia and thrombocytopenia increase
+ loss: 0.7279, acc: 0.5655, roc: 0.5303, f1: 0.6178, p: 0.5514, r: 0.7024, int-ap: 0.4715, ap: 0.4765

@@ -1,0 +1,6 @@
+DRUGBANK::carrier::Compound:Gene
+DRUGBANK::enzyme::Compound:Gene
+DRUGBANK::target::Compound:Gene
+Hetionet::CbG::Compound:Gene
+Hetionet::CdG::Compound:Gene
+Hetionet::CuG::Compound:Gene
