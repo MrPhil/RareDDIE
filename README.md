@@ -27,7 +27,7 @@ The repositories for **Independent**, **RareDDIE** and **ZetaDDIE** provide code
 ### **Model Training**
 
 - Run `trainer_structure_acc_fp_neigh_VAE_GAN_struc.py` to train the model on the standard dataset1.
-- Run `trainer_structure_acc_fp_neigh(mdf)_VAE_GAN_struc.py` to train the model on the standard dataset2.
+- Run `trainer_structure_acc_fp_neigh(dataset2)_VAE_GAN_struc.py` to train the model on the standard dataset2.
 
 
 
