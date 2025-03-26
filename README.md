@@ -133,3 +133,14 @@ Run
 python tester_cross_domain.py
 ```
 
+# Reference
+
+All datasets are processed from these works[1-5] and databases[6-7].
+
+1. Lin S, et al. MDF-SA-DDI: predicting drug–drug interaction events based on multi-source drug fusion, multi-source feature fusion and transformer self-attention mechanism. Brief Bioinform 23, bbab421 (2022).
+2. Nyamabo AK, Yu H, Liu Z, Shi J-Y. Drug–drug interaction prediction with learnable size-adaptive molecular substructures. Brief Bioinform 23, bbab441 (2022).
+3. Preuer K, Lewis RP, Hochreiter S, Bender A, Bulusu KC, Klambauer G. DeepSynergy: predicting anti-cancer drug synergy with Deep Learning. Bioinformatics 34, 1538-1546 (2018).
+4. Nair NU, et al. A landscape of response to drug combinations in non-small cell lung cancer. Nature Communications 14, 3830 (2023).
+5. Ma T, Lin X, Song B, Philip SY, Zeng X. Kg-mtl: knowledge graph enhanced multi-task learning for molecular interaction. IEEE Transactions on Knowledge and Data Engineering. 35, 7068-7081 (2022).
+6. Wishart DS, et al. DrugBank 5.0: a major update to the DrugBank database for 2018. NAR 46, D1074-D1082 (2018).
+7. Tatonetti NP, Ye PP, Daneshjou R, Altman RB. Data-driven prediction of drug effects and interactions. Sci Transl Med 4, 125ra131-125ra131 (2012).
